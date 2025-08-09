@@ -1,3 +1,4 @@
 models/en2zh/
 models/zh2en/
+.idea/
 *.log
