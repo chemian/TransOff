@@ -109,7 +109,7 @@ pip pip install PyQt5 transformers torch sentencepiece sacremoses pyperclip pynp
 
 ## 界面说明
 
-![transoff.png](transoff.png)
+![transoff.png](./transoff.png)
 
 ## 注意事项
 
@@ -131,4 +131,4 @@ pip pip install PyQt5 transformers torch sentencepiece sacremoses pyperclip pynp
 
 ## 许可证
 
-MIT License
+[MIT License](./LICENSE)
